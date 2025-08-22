@@ -1,6 +1,7 @@
-# Hi, I'm Imran 👋
-
-**Hamilton, New Zealand** • Building small full-stack apps • React • ASP.NET Core  
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=700&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Imran+%F0%9F%91%8B;Web+%26+.NET+tinkerer;" alt="Typing SVG" />
+</p>
 
 [![Blog](https://img.shields.io/badge/Blog-Hashnode-0969DA?logo=hashnode&logoColor=white)](https://hashnode.com/@i8abyte)  [![Projects](https://img.shields.io/badge/Projects-Hub-0ea5e9?logo=github&logoColor=white)](https://github.com/imran-salim?tab=repositories)  ![Focus](https://img.shields.io/badge/Focus-.NET%20%7C%20React-22c55e)  ![OSS Contributor](https://img.shields.io/badge/OSS-Contributor-34d399)  
 
