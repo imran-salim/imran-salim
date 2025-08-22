@@ -1,103 +1,66 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=700&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Imran+%F0%9F%91%8B;Web+%26+.NET+tinkerer;I+learn+by+shipping+small+things" alt="Typing SVG" />
-</p>
+# Hi, I'm Imran 👋
 
-<p align="center">
-  Hamilton, New Zealand • Building small full-stack apps • React • ASP.NET Core
-</p>
+**Hamilton, New Zealand** • Building small full-stack apps • React • ASP.NET Core
 
-<p align="center">
-  <a href="https://hashnode.com/@i8abyte"><img alt="Blog" src="https://img.shields.io/badge/Blog-Hashnode-0969DA?logo=hashnode&logoColor=white"></a>
-  <a href="https://github.com/imran-salim?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Explore-Repos-0ea5e9?logo=github&logoColor=white"></a>
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-.NET%20%7C%20React-22c55e">
-</p>
+[![Blog](https://img.shields.io/badge/Blog-Hashnode-0969DA?logo=hashnode&logoColor=white)](https://hashnode.com/@i8abyte)  [![Projects](https://img.shields.io/badge/Projects-Hub-0ea5e9?logo=github&logoColor=white)](https://github.com/imran-salim?tab=repositories)  ![Focus](https://img.shields.io/badge/Focus-.NET%20%7C%20React-22c55e)  ![OSS Contributor](https://img.shields.io/badge/OSS-Contributor-34d399)
 
 ---
 
-### ✨ Highlights
+## ✨ Highlights
 
-<table>
-  <tr>
-    <td>
-      <b>WeatherDashboard</b> — ASP.NET Core MVC app that fetches current weather via an HttpClient service.<br/>
-      <sub><a href="https://github.com/imran-salim/WeatherDashboard">repo</a></sub>
-    </td>
-    <td>
-      <b>IcecreamShop</b> — Minimal API (.NET) + SQLite + Swagger for quick testing.<br/>
-      <sub><a href="https://github.com/imran-salim/IcecreamShop">repo</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Periodic Table</b> — React + TypeScript + Vite + Storybook + Vitest mini-project.<br/>
-      <sub><a href="https://github.com/imran-salim/chemical-element-array">repo</a> • <a href="https://chemical-element-array.vercel.app/">demo</a></sub>
-    </td>
-    <td>
-      <b>ye</b> — Tiny Go CLI that prints Kanye quotes (Dockerized).<br/>
-      <sub><a href="https://github.com/imran-salim/ye">repo</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>The Chookbook</b> — Node.js + Express + Pug + SQLite recipe site.<br/>
-      <sub><a href="https://github.com/imran-salim/the-chookbook">repo</a></sub>
-    </td>
-    <td>
-      <b>Next.js minis</b> — small TS/React exercises.<br/>
-      <sub>To-do <a href="https://github.com/imran-salim/todo-list">repo</a> • <a href="https://todo-list-eight-ruddy-13.vercel.app">demo</a> &nbsp;|&nbsp; Contact card <a href="https://github.com/imran-salim/contact-card">repo</a> • <a href="https://contact-card-puce.vercel.app/">demo</a></sub>
-    </td>
-  </tr>
-</table>
+- **[WeatherDashboard](https://github.com/imran-salim/WeatherDashboard)** — ASP.NET Core MVC app fetching live weather via HttpClient  
+- **[IcecreamShop](https://github.com/imran-salim/IcecreamShop)** — .NET Minimal API + SQLite + Swagger for rapid prototyping  
+- **[Periodic Table](https://github.com/imran-salim/chemical-element-array)** — React + TypeScript + Vite + Storybook + Vitest • [Demo](https://chemical-element-array.vercel.app/)  
+- **[ye](https://github.com/imran-salim/ye)** — Tiny Go CLI printing Kanye quotes (Dockerized)  
+- **[The Chookbook](https://github.com/imran-salim/the-chookbook)** — Node.js + Express + Pug + SQLite recipe site  
+- **Next.js Minis**  
+  - [To-do app](https://github.com/imran-salim/todo-list) • [Demo](https://todo-list-eight-ruddy-13.vercel.app)  
+  - [Contact card](https://github.com/imran-salim/contact-card) • [Demo](https://contact-card-puce.vercel.app)
 
 ---
 
-### 🧰 Toolbox
+## 🌍 Open Source Contributions
 
-<p>
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white">
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white">
-  <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white">
-  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white">
-</p>
+_Giving back across Go, Python/ML, cloud-native, and templates._
 
----
+### 🚀 Go Ecosystem
+- [![go-away](https://img.shields.io/badge/go--away-00ADD8?logo=go&logoColor=white)](https://github.com/TwiN/go-away) — Profanity detection library  
+  ↳ [My PRs](https://github.com/TwiN/go-away/pulls?q=is%3Apr+author%3Aimran-salim)
+- [![kstrace](https://img.shields.io/badge/kstrace-326CE5?logo=kubernetes&logoColor=white)](https://github.com/MichaelWasher/kstrace) — Kubernetes strace collector  
+  ↳ [My commit](https://github.com/MichaelWasher/kstrace/commit/488f94fd90f8b1bdf267afc29f13a46882ef7754)
 
-### 📊 Stats
+### 🐍 Python / ML
+- [![scikit-multiflow](https://img.shields.io/badge/scikit--multiflow-F7931E?logo=python&logoColor=white)](https://github.com/scikit-multiflow/scikit-multiflow) — Stream learning toolkit  
+  ↳ [My commits](https://github.com/scikit-multiflow/scikit-multiflow/commits?author=imran-salim)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imran-salim&show_icons=true&include_all_commits=true&rank_icon=github&hide_title=true&theme=transparent" alt="GitHub stats" />
-</p>
+### 📦 Templates & Platforms
+- [![shift72-template](https://img.shields.io/badge/shift72--template-0ea5e9?logo=github&logoColor=white)](https://github.com/shift72/shift72-template) — Platform template repo  
+  ↳ [My commits](https://github.com/shift72/shift72-template/commits?author=imran-salim)
+- [![core-template](https://img.shields.io/badge/core--template-0ea5e9?logo=github&logoColor=white)](https://github.com/shift72/core-template) — Core template repo  
+  ↳ [My commits](https://github.com/shift72/core-template/commits?author=imran-salim)
 
-<!-- Optional: top languages card (comment in if you want it) -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran-salim&layout=compact&langs_count=8&card_width=360&theme=transparent" alt="Top languages" />
-</p>
--->
+➕ [All PRs](https://github.com/pulls?q=is%3Apr+author%3Aimran-salim) • [All commits](https://github.com/search?q=author%3Aimran-salim&type=commits)
 
 ---
 
-### 🚀 Now / Next
-- Sharpening ASP.NET Core patterns (clean architecture, minimal APIs)
-- Shipping small full-stack apps that touch DB, HTTP, auth & tests
-- Open to pairing, code reviews, and tiny collabs — open an issue on any repo
+## 🧰 Toolbox
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)  ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)  ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)  ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)  ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
 
 ---
 
-<p align="center">
-  <a href="https://hashnode.com/@i8abyte">Writing</a> • 
-  <a href="https://github.com/imran-salim?tab=repositories">Projects</a>
-</p>
+## 📊 Stats
 
-<!-- Tips:
-1) Pin 6 repos to mirror the Highlights grid.
-2) Keep the header badges light to reduce visual noise.
-3) If a badge service ever rate-limits, refresh or remove that line temporarily.
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imran-salim&show_icons=true&include_all_commits=true&rank_icon=github&hide_title=true&theme=transparent)
+
+---
+
+## 🚀 Now / Next
+
+- Leveling up ASP.NET Core architecture (clean code, minimal APIs)  
+- Shipping small full-stack apps with DB, HTTP, auth, and tests  
+- Open to pairing, code reviews, and mini-collabs — open an issue!
+
+---
+
+✍️ [Writing](https://hashnode.com/@i8abyte) • 📂 [Projects](https://github.com/imran-salim?tab=repositories)
