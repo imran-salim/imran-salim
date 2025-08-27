@@ -5,6 +5,8 @@
 
 [![Blog](https://img.shields.io/badge/Blog-Hashnode-0969DA?logo=hashnode&logoColor=white)](https://hashnode.com/@i8abyte)  [![Projects](https://img.shields.io/badge/Projects-Hub-0ea5e9?logo=github&logoColor=white)](https://github.com/imran-salim?tab=repositories)  ![Focus](https://img.shields.io/badge/Focus-.NET%20%7C%20React-22c55e)  ![OSS Contributor](https://img.shields.io/badge/OSS-Contributor-34d399)  
 
+I start too many projects for my own good...
+
 ---
 
 ## ✨ Highlights
