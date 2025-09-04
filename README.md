@@ -13,7 +13,7 @@
 
 - **[WeatherDashboard](https://github.com/imran-salim/WeatherDashboard)** — ASP.NET Core MVC app fetching live weather via HttpClient  
 - **[Periodic Table](https://github.com/imran-salim/chemical-element-array)** — React + TypeScript + Vite + Storybook + Vitest • [Demo](https://chemical-element-array.vercel.app/)
-- **[Generate HTML & CSS](https://github.com/imran-salim/generate-html-css)** - Node.js + Express + Pug + OpenAI
+- **[Generate HTML & CSS](https://github.com/imran-salim/generate-html-css)** - Node.js + Express + TypeScript + Pug + OpenAI
 - **[ye](https://github.com/imran-salim/ye)** — Tiny Go CLI printing Kanye quotes (Dockerized)  
 - **[The Chookbook](https://github.com/imran-salim/the-chookbook)** — Node.js + Express + Pug + SQLite recipe site
 - **[IcecreamShop](https://github.com/imran-salim/IcecreamShop)** — .NET Minimal API + SQLite + Swagger for rapid prototyping  
