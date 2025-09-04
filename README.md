@@ -12,10 +12,11 @@
 ## ✨ Highlights
 
 - **[WeatherDashboard](https://github.com/imran-salim/WeatherDashboard)** — ASP.NET Core MVC app fetching live weather via HttpClient  
-- **[IcecreamShop](https://github.com/imran-salim/IcecreamShop)** — .NET Minimal API + SQLite + Swagger for rapid prototyping  
-- **[Periodic Table](https://github.com/imran-salim/chemical-element-array)** — React + TypeScript + Vite + Storybook + Vitest • [Demo](https://chemical-element-array.vercel.app/)  
+- **[Periodic Table](https://github.com/imran-salim/chemical-element-array)** — React + TypeScript + Vite + Storybook + Vitest • [Demo](https://chemical-element-array.vercel.app/)
+- **[Generate HTML & CSS](https://github.com/imran-salim/generate-html-css)** - Node.js + Express + Pug + OpenAI
 - **[ye](https://github.com/imran-salim/ye)** — Tiny Go CLI printing Kanye quotes (Dockerized)  
-- **[The Chookbook](https://github.com/imran-salim/the-chookbook)** — Node.js + Express + Pug + SQLite recipe site  
+- **[The Chookbook](https://github.com/imran-salim/the-chookbook)** — Node.js + Express + Pug + SQLite recipe site
+- **[IcecreamShop](https://github.com/imran-salim/IcecreamShop)** — .NET Minimal API + SQLite + Swagger for rapid prototyping  
 - **Next.js Minis**  
   - [To-do app](https://github.com/imran-salim/todo-list) • [Demo](https://todo-list-eight-ruddy-13.vercel.app)  
   - [Contact card](https://github.com/imran-salim/contact-card) • [Demo](https://contact-card-puce.vercel.app)  
@@ -64,8 +65,8 @@ _Giving back across Go, Python/ML, cloud-native, docs, and templates._
 
 ## 🚀 Now / Next  
 
-- Learning ASP.NET Core and React  
-- Shipping small full-stack apps with DB, HTTP, auth, and tests  
+- Learning ASP.NET Core and React
+- Building small full-stack apps which may include DB, HTTP, auth, tests, and AI  
 - Open to pairing, code reviews, and mini-collabs — open an issue!  
 
 ---
