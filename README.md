@@ -12,19 +12,17 @@
 
 ---
 
-## ✨ TypeScript Highlights
+## ✨ Highlights
 
 - **[Periodic Table](https://github.com/imran-salim/chemical-element-array)** — React + **TypeScript** + Vite + Storybook + Vitest • [Demo](https://chemical-element-array.vercel.app/)
 - **[Generate HTML & CSS](https://github.com/imran-salim/generate-html-css)** — Node.js + Express + **TypeScript** + Pug + OpenAI
-- **Next.js Minis (TS)**  
-  - [To-do app](https://github.com/imran-salim/todo-list) • [Demo](https://todo-list-eight-ruddy-13.vercel.app)  
-  - [Contact card](https://github.com/imran-salim/contact-card) • [Demo](https://contact-card-puce.vercel.app)
-
-### Other Projects
 - **[The Chookbook](https://github.com/imran-salim/the-chookbook)** — Node.js + Express + Pug + SQLite
 - **[WeatherDashboard](https://github.com/imran-salim/WeatherDashboard)** — ASP.NET Core MVC (C#)
 - **[IcecreamShop](https://github.com/imran-salim/IcecreamShop)** — .NET Minimal API + SQLite + Swagger
 - **[ye](https://github.com/imran-salim/ye)** — Tiny Go CLI printing Kanye quotes (Dockerized)
+- **Next.js Minis (TS)**  
+  - [To-do app](https://github.com/imran-salim/todo-list) • [Demo](https://todo-list-eight-ruddy-13.vercel.app)  
+  - [Contact card](https://github.com/imran-salim/contact-card) • [Demo](https://contact-card-puce.vercel.app)
 
 ---
 
