@@ -15,8 +15,8 @@
 ## ✨ Highlights
 
 - **[Cocktail Party](https://github.com/imran-salim/cocktail-party)** — Next.js + TypeScript [Demo](https://cocktail-party-tau.vercel.app/)
-- **[Periodic Table](https://github.com/imran-salim/chemical-element-array)** — React + TypeScript + Vite + Storybook + Vitest • [Demo](https://chemical-element-array.vercel.app/)
 - **[Generate HTML & CSS](https://github.com/imran-salim/generate-html-css)** — Node.js + Express + TypeScript + Pug + OpenAI + AWS [Demo](http://3.26.48.157:3000/)
+- **[Periodic Table](https://github.com/imran-salim/chemical-element-array)** — React + TypeScript + Vite + Storybook + Vitest • [Demo](https://chemical-element-array.vercel.app/)
 - **[The Chookbook](https://github.com/imran-salim/the-chookbook)** — Node.js + Express + Pug + SQLite
 - **[WeatherDashboard](https://github.com/imran-salim/WeatherDashboard)** — ASP.NET Core MVC (C#)
 - **[IcecreamShop](https://github.com/imran-salim/IcecreamShop)** — .NET Minimal API + SQLite + Swagger
